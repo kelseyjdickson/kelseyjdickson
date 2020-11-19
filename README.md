@@ -1,6 +1,6 @@
    <h1>🤠 Hi, I'm Kelsey! NYC based Full-Stack Web Developer 🤠</h1>
 <div class="text-purple" >
-   <h3 class="text-inherit">Believer that there should be more ladies in tech</h3>
+   <h3 class="text-inherit">Believer that there should be more ladies in tech 💻🧠🎉</h3>
 </div>
 
 
