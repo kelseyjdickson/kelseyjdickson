@@ -1,5 +1,5 @@
    <h1>🤠 Hi, I'm Kelsey! NYC based Full-Stack Web Developer 🤠</h1>
-   <h3 style="color:pink">Believer that there should be more ladies in tech</h3>
+   <h3 style="color:pink; text-align:center">Believer that there should be more ladies in tech</h3>
 
 <!--
 **kelseyjdickson/kelseyjdickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
