@@ -1,4 +1,5 @@
-   <h1>🤠Hi, I'm Kelsey! NYC based Full-Stack Web Developer🤠</h1>
+   <h1>🤠 Hi, I'm Kelsey! NYC based Full-Stack Web Developer 🤠</h1>
+   <h3>Believer that there should be more ladies in tech</h3>
 
 <!--
 **kelseyjdickson/kelseyjdickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/KelseyD485"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/kelseydickson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://kelseyjdickson.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+
+<h1>Experience</h1>
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
