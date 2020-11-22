@@ -1,6 +1,6 @@
    <h1>🤠 Hi, I'm Kelsey! NYC based Full-Stack Web Developer 🤠</h1>
 
-   <h3>Believer that there should be more ladies in tech 💻🧠🎉</h3>
+   <h3>Believer that there should be more ladies in tech and in leadership 💻🧠🎉</h3>
 
 
 
