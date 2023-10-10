@@ -1,6 +1,6 @@
    <h1>🤠 Hi, I'm Kelsey! NYC based Engineer 🤠</h1>
 
-   <h3>Believer that there should be more ladies in tech and leadership 💻 🧠 🎉</h3>
+   <h3>Believer that diversity fuels innovation 💻 🧠 🎉</h3>
 
 
 
